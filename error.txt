@@ -1,0 +1,42 @@
+127.0.0.1 - - [27/Sep/2022 15:54:42] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2022 15:54:42] "GET /home HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 229-788-330
+127.0.0.1 - - [28/Sep/2022 01:51:38] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [28/Sep/2022 01:51:43] "GET /home HTTP/1.1" 200 -
+This is the first message
+This is the first message
+
+This is the first message
+This is the first message
+This is the first message
+This is the first message
+
+ * Detected change in '/Users/danie/new_project_flask_kafka_spark/projecting.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 229-788-330
+ * Detected change in '/Users/danie/new_project_flask_kafka_spark/projecting.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 229-788-330
+/Users/danie/new_project_flask_kafka_spark/error.txt
+/Users/danie/new_project_flask_kafka_spark/error.txt
+127.0.0.1 - - [27/Sep/2022 15:54:42] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2022 15:54:42] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [27/Sep/2022 15:54:42] "GET /home HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 229-788-330
+127.0.0.1 - - [28/Sep/2022 11:59:43] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [28/Sep/2022 11:59:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [28/Sep/2022 11:59:45] "GET /info HTTP/1.1" 200 -
+127.0.0.1 - - [28/Sep/2022 12:01:35] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [28/Sep/2022 12:01:36] "GET /home HTTP/1.1" 200 -

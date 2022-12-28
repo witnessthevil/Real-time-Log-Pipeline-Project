@@ -1,0 +1,15 @@
+2022.12.19 00:26:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/danie/new_project_flask_kafka_spark/.metals/lsp.trace.json or /Users/danie/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.19 00:26:46 INFO  logging to file /Users/danie/new_project_flask_kafka_spark/.metals/metals.log
+2022.12.19 00:26:46 INFO  Started: Metals version 0.11.9 in workspace '/Users/danie/new_project_flask_kafka_spark' for client Visual Studio Code 1.71.2.
+2022.12.19 00:26:48 INFO  time: initialize in 1.82s
+2022.12.19 00:26:48 WARN  Build server is not auto-connectable.
+2022.12.19 00:26:48 WARN  no build tool detected in workspace '/Users/danie/new_project_flask_kafka_spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.19 00:27:23 INFO  
+2022.12.19 00:27:23 INFO  Template applied in /Users/danie/spark_testing/./spark-tester
+2022.12.19 00:27:23 INFO  
+2022.12.19 00:27:23 INFO  time: ran 'giter8.Giter8' in 3.6s
+2022.12.19 01:12:38 WARN  no build target for: /Users/danie/scala-spark/build.sbt
+2022.12.19 01:12:41 INFO  no build target found for /Users/danie/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.2.0
+2022.12.19 01:12:43 INFO  time: code lens generation in 5.02s
+2022.12.19 01:13:04 WARN  no build target for: /Users/danie/spark_testing/spark-tester/build.sbt
+2022.12.20 23:20:50 INFO  shutting down Metals
